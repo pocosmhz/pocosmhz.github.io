@@ -1,0 +1,11 @@
+Manuel Molina:
+  name        : "Manuel Molina"
+  bio         : "I'm a freak by trade."
+  avatar      : "/assets/images/deluxepaint_22.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mmc@pocosmhz.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://blog.pocosmhz.org"
