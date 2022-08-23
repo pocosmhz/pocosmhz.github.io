@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.pocosmhz.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: pocosmhz
-
+locale: "en-UK"
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -52,8 +52,12 @@ defaults:
     values:
       show_date: true  # Show date on posts by default
       comments: true  # Allow comments by default
+      read_time: true
+      share: true
+      related: true
 
-include: ["_pages"]
+include:
+  - "_pages"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
