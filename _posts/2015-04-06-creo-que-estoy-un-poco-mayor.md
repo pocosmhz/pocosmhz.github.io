@@ -9,8 +9,8 @@ published: true
 date: '2015-04-06 15:39:47 +0200'
 date_gmt: '2015-04-06 15:39:47 +0200'
 tags: []
-comments: true
 excerpt_separator: <!--more-->
+locale: "es-ES"
 ---
 <figure style="width: 402px" class="align-left">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/2015-04-06-creo-que-estoy-un-poco-mayor/menuconfig.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/2015-04-06-creo-que-estoy-un-poco-mayor/menuconfig.jpg" alt="menuconfig"></a>
