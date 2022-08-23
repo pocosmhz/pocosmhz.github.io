@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 status: publish
 title: Secret world
 tags: []
@@ -12,6 +12,7 @@ date: '2021-02-07 22:33:17 +0100'
 date_gmt: '2021-02-07 22:33:17 +0100'
 tags:
 - drawingoftheweek
+- fakepost
 excerpt_separator: <!--more-->
 ---
 <figure style="width: 512px">
