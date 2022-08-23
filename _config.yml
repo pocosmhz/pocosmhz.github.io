@@ -36,6 +36,7 @@ minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "d
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 github: [metadata]  # Fix taken from https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 
 # Disqus Comments . Configuration provided by https://mmistakes.github.io/minimal-mistakes/docs/configuration/#comments
@@ -51,6 +52,8 @@ defaults:
     values:
       show_date: true  # Show date on posts by default
       comments: true  # Allow comments by default
+
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
