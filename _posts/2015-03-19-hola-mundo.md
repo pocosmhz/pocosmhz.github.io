@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: ¡Hola mundo!
 author: manuel_molina
 author_profile: true

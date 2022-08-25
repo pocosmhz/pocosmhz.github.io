@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Creo que estoy un poco mayor ...
 author: manuel_molina
 author_profile: true

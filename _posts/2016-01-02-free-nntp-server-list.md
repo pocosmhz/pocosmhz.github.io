@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 status: publish
 title: Free NNTP server list
 tags: []

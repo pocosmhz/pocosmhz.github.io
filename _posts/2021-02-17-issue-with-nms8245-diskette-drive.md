@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 status: publish
 title: Issue with NMS8245 diskette drive
 tags: []

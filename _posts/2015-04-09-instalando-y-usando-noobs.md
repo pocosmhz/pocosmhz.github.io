@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 status: publish
 title: Instalando y usando Noobs
 tags: []
