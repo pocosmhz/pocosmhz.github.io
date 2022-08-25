@@ -20,7 +20,7 @@ Long time ago (even before they were [bought by Oracle](https://www.wired.com/20
 I really wanted one that was inexpensive. [YDNS](https://ydns.io/) looked like a good fit. However, the list of providers accepted by the Huawei EG8145V5 router is limited, and the tests were not working.
 
 <figure class="align-left">
-  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/2022-08-25-duckdns-in-two-minutes/duck_icon.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/2022-08-25-duckdns-in-two-minutes/duck_icon.png" alt="duck"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/2022-08-25-duckdns-in-two-minutes/ducky_icon.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/2022-08-25-duckdns-in-two-minutes/ducky_icon.png" alt="duck"></a>
   <figcaption>DuckDNS logo</figcaption>
 </figure> 
 I discovered [DuckDNS](https://ydns.io/) and it has been the chosen one. The process was very straightforward:
