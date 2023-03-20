@@ -39,6 +39,8 @@ plugins:
   - jemoji
 github: [metadata]  # Fix taken from https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 
+# Please find here a reference for jemoji icons: https://davemateer.com/2019/05/27/Jemoji
+
 # Disqus Comments . Configuration provided by https://mmistakes.github.io/minimal-mistakes/docs/configuration/#comments
 comments:
   provider: "disqus"
