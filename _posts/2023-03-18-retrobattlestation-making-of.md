@@ -37,6 +37,8 @@ A brief list of the [full specifications](https://support.dynabook.com/support/s
 | Controller Chip | S3 Virge MX 3D graphics controller |
 | Video resolutions | From 640 x 480 16.7M colors (Smaller Image) up to 1280 x 1024 256 colors (Virtual Display Mode) |
 | Ports | ECP parallel port ; DB9 serial port ; 1x USB 1.1 ; PS/2 external keyboard/mouse port ; IR port ; 2x PCMCIA slots |
+| Internal modem | 56K Integrated internal modem with V.90 support |
+| Sound system | [Yamaha OPL3-SA3](https://ilovepa.ws/yamaha-opl-isa-cards/) |
 | Storage | 1x FDD ; 1x internal and serviceable 2.5 inch IDE drive ; Toshiba 24x CD-ROM drive |
 
 # Software recovery CD-ROM
@@ -269,7 +271,7 @@ They belong to the following packages and can be downloaded from the links:
   - However, I found [this other thread](https://msfn.org/board/topic/183352-proxhttpsproxy-and-httpsproxy-in-windows-xp-for-future-use/) where, on section 11.2.4 I was able to download an offline updater that was up to date (February 2023).
   - After downloading `rootsupd.exe` and running it, I managed to browse several pages and IE8 accepted the certificates as valid!
 - [KB953356 Update for Windows XP](https://www.catalog.update.microsoft.com/Search.aspx?q=KB953356). We're supposed to install this patch to prevent non-intel computers from continuously restart after installing SP3. Oops! I already did, so ... :wink:
-- [KB942288-v3 Windows Installer 4.5 redistributable](https://support.microsoft.com/es-es/topic/windows-installer-4-5-est%C3%A1-disponible-bf06be18-3e0a-d5eb-4549-b482f67e1c46) That link was a dead end. After several broken links from Microsoft, and thanks to [Abuelo Informático](https://www.abueloinformatico.es/verprogramas.php?id=775&nombre=Windows%20Installer&cat=Componentes%20y%20librerias) (Computer Grandpa), I was able to reach [this link](https://www.microsoft.com/es-es/download/details.aspx?id=8483#filelist) from where I found another dead end :sad: . I finally found the file in [one SourceForge project](https://sourceforge.net/projects/vietnam-ldi/files/Software/Windows%20Installer%204.5/Windows%20Installer_WindowsXP-KB942288-v3-x86.exe/download?use_mirror=kumisystems&download=&failedmirror=jaist.dl.sourceforge.net).
+- [KB942288-v3 Windows Installer 4.5 redistributable](https://support.microsoft.com/es-es/topic/windows-installer-4-5-est%C3%A1-disponible-bf06be18-3e0a-d5eb-4549-b482f67e1c46) That link was a dead end. After several broken links from Microsoft, and thanks to [Abuelo Informático](https://www.abueloinformatico.es/verprogramas.php?id=775&nombre=Windows%20Installer&cat=Componentes%20y%20librerias) (Computer Grandpa), I was able to reach [this link](https://www.microsoft.com/es-es/download/details.aspx?id=8483#filelist) from where I found another dead end :disappointed: . I finally found the file in [one SourceForge project](https://sourceforge.net/projects/vietnam-ldi/files/Software/Windows%20Installer%204.5/Windows%20Installer_WindowsXP-KB942288-v3-x86.exe/download?use_mirror=kumisystems&download=&failedmirror=jaist.dl.sourceforge.net).
 - [KB969084 Remote desktop update for Windows XP](https://www.catalog.update.microsoft.com/Search.aspx?q=969084)
 - Windows Media Player 11 for Windows XP. As I was unable to find a *reliable* link, I suggest to install the latest compatible version of [VLC player for Windows](https://www.videolan.org/vlc/download-windows.wa.html). At the time of this writing, it is 3.0.18.
 
@@ -349,7 +351,7 @@ The last version with Windows XP Support, according to [this article](https://mz
 </figure>
 That version crashed upon start. If we look at the aformentioned SSE2 resources, we must try version [48.0.2](https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/es-ES/Firefox%20Setup%2048.0.2.exe). Release date was August 24, 2016.
 
-Same happened with 47.0.2 and 46.0.1. :sad:
+Same happened with 47.0.2 and 46.0.1. :anguished:
 
 I saw [this question](https://support.mozilla.org/es/questions/841446) and I wondered if I was even able to run version 5, released on July 11th, 2011.
 
