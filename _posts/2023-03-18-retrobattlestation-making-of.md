@@ -326,22 +326,6 @@ That said, I'll use two very valuable resources to suggest previous versions of 
 
 Please see my final conclusions at the end of the post.
 
-## Adding IOmega Zip 100 drive
-For the sake of having massive storage, I'm installing this parallel port Zip 100 drive.
-
-I have [this installation media](https://archive.org/details/iomegaware_202208) together with the Zip 100 drive I bought in the previous century.
-
-However there are newer versions, like 2.8 [here](https://archive.org/details/iomega-iomegaware-usb-drivers) or 4.0.3 that you can get from [this web](http://dosdays.co.uk/topics/Manufacturers/iomega_downloads.php). I installed that last one.
-<figure style="width: 400px" class="align-center">
-  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/2023-03-18-retrobattlestation-making-of/iomegaware-setup.PNG">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2023-03-18-retrobattlestation-making-of/iomegaware-setup.PNG" alt="IomegaWare Setup"/></a>
-  <figcaption>PuTTY MSI installation</figcaption>
-</figure>
-Drawbacks:
-
-- Parallel port Iomega Zip 100 drive only works on Windows nowadays.
-- No chance I can get it to work on Linux, as no current distribution fits in this computer.
-
 ## Mozilla Firefox
 The last version with Windows XP Support, according to [this article](https://mzl.la/3BXx1GL) is [52.9.0esr](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/es-ES/Firefox%20Setup%2052.9.0esr.exe)
 
@@ -395,6 +379,44 @@ I installed latest version, which is [23.0](https://download.mobatek.net/2302023
 I opted for downloading an older (about 2019), [portable version 12.3](https://download.mobatek.net/1232019093005654/MobaXterm_Portable_v12.3.zip).
 
 More errors coming from this executable. As with Firefox, I might continue working on earlier versions if it were worth it.
+
+# Additional hardware
+
+## Adding IOmega Zip 100 drive
+For the sake of having massive storage, I'm installing this parallel port Zip 100 drive.
+
+I have [this installation media](https://archive.org/details/iomegaware_202208) together with the Zip 100 drive I bought in the previous century.
+
+However there are newer versions, like 2.8 [here](https://archive.org/details/iomega-iomegaware-usb-drivers) or 4.0.3 that you can get from [this web](http://dosdays.co.uk/topics/Manufacturers/iomega_downloads.php). I installed that last one.
+<figure style="width: 400px" class="align-center">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/2023-03-18-retrobattlestation-making-of/iomegaware-setup.PNG">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2023-03-18-retrobattlestation-making-of/iomegaware-setup.PNG" alt="IomegaWare Setup"/></a>
+  <figcaption>PuTTY MSI installation</figcaption>
+</figure>
+Drawbacks:
+
+- Parallel port Iomega Zip 100 drive only works on Windows nowadays.
+- No chance I can get it to work on Linux, as no current distribution fits in this computer.
+
+## Wi-Fi networking
+Besides the 3Com Megahertz 3CXE589DT 10 Mbps LAN I already mentioned, I wanted to give Wi-Fi a try.
+
+I have another classic here, [NetGear WG511v2](https://www.netgear.es/support/product/wg511v2) 54 Mbps Wireless PC Card.
+
+Current software, which is compatible with Windows XP, can be found there, and [here](https://www.downloads.netgear.com/files/GDC/WG511V2/WG511v2%20Software%20Version%203.2.zip) is the link.
+
+<figure style="width: 400px" class="align-center">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/2023-03-18-retrobattlestation-making-of/netgear-wg511v2-wizard-2.PNG">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2023-03-18-retrobattlestation-making-of/netgear-wg511v2-wizard-2.PNG" alt="Netgear installation wizard"/></a>
+  <figcaption>Netgear installation wizard</figcaption>
+</figure>
+
+Once the card is installed and we select the Windows utility to manage wireless networks, we're good to go!
+
+<figure style="width: 367px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2023-03-18-retrobattlestation-making-of/netgear-wg511v2-status.PNG" alt="Wi-fi network status"/>
+  <figcaption>Wi-fi network status</figcaption>
+</figure>
 
 # Wrap up
 
