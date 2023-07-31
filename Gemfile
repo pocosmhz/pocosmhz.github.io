@@ -35,7 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "jekyll-include-cache", "~> 0.2.1", :group => :"jekyll-plugins"
 
-gem "jekyll-import", "~> 0.21.0"
+gem "jekyll-import", "~> 0.22.0"
 gem "sequel", "~> 5.59"
 gem "unidecode", "~> 1.0"
 gem "mysql2", "~> 0.5.4"
