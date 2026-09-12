@@ -40,3 +40,5 @@ gem "jekyll-import", "~> 0.22.0"
 gem "sequel", "~> 5.71"
 gem "unidecode", "~> 1.0"
 gem "mysql2", "~> 0.5.4"
+
+gem "webrick", "~> 1.9"
